@@ -14,6 +14,8 @@ h1 {
 }
 
 #footer {
+    padding-top: 15px;
+    padding-bottom: 15px;
     position: fixed;
     left: 0;
     bottom: 0;
